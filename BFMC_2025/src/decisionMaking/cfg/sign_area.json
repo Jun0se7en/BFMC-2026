@@ -1,0 +1,58 @@
+{
+    "PRIORITY": {
+        "area": 1000,
+        "obj_msg": "PriorityRoad"
+    },
+    "CROSSWALK": {
+        "area": 1300,
+        "obj_msg": "CrossWalk"
+    },
+    "STOP": {
+        "area": 1000,
+        "obj_msg": "Stop"
+    },
+    "NO_ENTRY": {
+        "area": 1500,
+        "obj_msg": "NoEntry"
+    },
+    "ONE_WAY": {
+        "area": 1500,
+        "obj_msg": "OneWay"
+    },
+    "HIGHWAY_ENTRY": {
+        "area": 500,
+        "obj_msg": "HighwayEntry"
+    },
+    "HIGHWAY_EXIT": {
+        "area": 500,
+        "obj_msg": "HighwayEnd"
+    },
+    "PARKING": {
+        "area": 2000,
+        "obj_msg": "Parking"
+    },
+    "ROUNDABOUT": {
+        "area": 1200,
+        "obj_msg": "Roundabout"
+    },
+    "PEDESTRIAN": {
+        "area": 500,
+        "obj_msg": "Pedestrian"
+    },
+    "CAR": {
+        "area": 6000,
+        "obj_msg": "Car"
+    },
+    "REDLIGHT": {
+        "area": 1500,
+        "obj_msg": "Redlight"
+    },
+    "YELLOWLIGHT": {
+        "area": 1500,
+        "obj_msg": "Yellowlight"
+    },
+    "GREENLIGHT":    {
+        "area": 1500,
+        "obj_msg": "Greenlight"
+    }
+}
